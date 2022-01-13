@@ -1,0 +1,1 @@
+{'gain': 0, 'white_balance': 1.32, 'short_exposure': 100000.0, 'long_exposure': 10000000.0, 'gamma': 1, 'NUM_IMAGES': 3, 'PATH_CAM1': 'D:\\dataset\\cam1', 'PATH_CAM2': 'D:\\dataset\\cam2', 'scene': 1}
